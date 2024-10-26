@@ -1,5 +1,5 @@
 
-![Recipe Sharing and AI Integration](napkin-selection.png)
+![Recipe Sharing and AI Integration](napkin-app-overview.png)
 
 ---
 
@@ -35,7 +35,7 @@ Secure user login and data protection features.
 ---
 
 ## 📐 Development Scope
-![User Interaction and Engagement](project-development-breakdown.png)
+![User Interaction and Engagement](napkin-selection.png)
 
 ### UI/UX Design
 User-centric interface design focused on ease of use and intuitive navigation.
