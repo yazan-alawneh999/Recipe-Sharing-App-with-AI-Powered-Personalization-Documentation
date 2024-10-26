@@ -5,7 +5,7 @@ A modern recipe sharing app, enhanced with AI for personalized suggestions, buil
 ---
 
 ## 📖 Core Features
-![Personalization](napkin-selection(1).png)
+![Personalization](core_features.png)
 
 ### Recipe Sharing and AI Integration
 Users can share recipes and receive suggestions based on ingredients they have.
@@ -36,7 +36,7 @@ Secure user login and data protection features.
 ---
 
 ## 📐 Development Scope
-![User Interaction and Engagement](napkin-selection(2).png)
+![User Interaction and Engagement](project-development-breakdown.png)
 
 ### UI/UX Design
 User-centric interface design focused on ease of use and intuitive navigation.
@@ -63,7 +63,7 @@ Comprehensive testing for functionality, security, and user experience.
 
 ## 💵 Estimated Cost and Timeline
 
-![Recipe Management and Categorization](napkin-selection(3).png)
+![Recipe Management and Categorization](project-pugedt-distribution.png)
 ### 📅 Total Estimated Cost
 Total Project Budget: $1,500 - $2,000
 
