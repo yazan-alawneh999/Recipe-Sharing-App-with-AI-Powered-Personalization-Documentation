@@ -1,0 +1,6 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [T Recipe Sharing App with AI-Powered Personalization]
+description: [A modern recipe sharing app, enhanced with AI for personalized suggestions, built using a robust application architecture aimed at seamless user interaction.]
+show_downloads: [true]
