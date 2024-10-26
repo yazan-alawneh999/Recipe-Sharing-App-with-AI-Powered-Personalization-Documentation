@@ -1,6 +1,4 @@
-# 🍲 Recipe Sharing App with AI-Powered Personalization
 
-A modern recipe sharing app, enhanced with AI for personalized suggestions, built using a robust application architecture aimed at seamless user interaction.
 ![Recipe Sharing and AI Integration](napkin-selection.png)
 ---
 
