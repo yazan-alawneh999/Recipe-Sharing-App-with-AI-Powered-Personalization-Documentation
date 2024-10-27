@@ -71,10 +71,11 @@ To reduce food waste by providing a platform where restaurants can sell leftover
 - Restaurants: Reduce food waste, earn additional revenue, and increase customer outreach.
 - Customers: Access discounted food items, support sustainability efforts, and discover new dining options affordably.
 ### Features
-- Restaurant Dashboard: Allows restaurants to list leftover items, set prices, and update 
-  availability.
+- Restaurant Dashboard: Allows restaurants to list leftover items, set prices, and update availability.
 - Customer Role Allows customers to search for food items and reserve items.
+  
 ---
+
 ## 💵 Estimated Cost and Timeline
 
 ![budget_with_latest](budget_with_latest_cost.png)
