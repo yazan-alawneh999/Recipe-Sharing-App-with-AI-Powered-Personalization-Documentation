@@ -70,7 +70,7 @@ To reduce food waste by providing a platform where restaurants can sell leftover
 ### Value Proposition:
 - Restaurants: Reduce food waste, earn additional revenue, and increase customer outreach.
 - Customers: Access discounted food items, support sustainability efforts, and discover new dining options affordably.
-## Features
+### Features
 - Restaurant Dashboard: Allows restaurants to list leftover items, set prices, and update 
   availability.
 - Customer Role Allows customers to search for food items and reserve items.
