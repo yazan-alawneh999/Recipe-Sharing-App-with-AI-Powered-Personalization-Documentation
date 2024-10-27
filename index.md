@@ -59,12 +59,34 @@ Ad integration and other relevant APIs.
 Comprehensive testing for functionality, security, and user experience.
 
 ---
-
+## Business Case: Leftover Food Sales integration
+### Objective
+To reduce food waste by providing a platform where restaurants can sell leftover food at discounted rates at the end of each day.
+### How It Works
+![how it work](save-item-process.png)
+- Restaurants list unsold food items at discounted prices near closing time.
+- Customers can browse the app to view available leftover food items nearby.
+- They can reserve and pay for items through the app, then pick them up at the restaurant.
+### Value Proposition:
+- Restaurants: Reduce food waste, earn additional revenue, and increase customer outreach.
+- Customers: Access discounted food items, support sustainability efforts, and discover new dining options affordably.
+## Features
+- Restaurant Dashboard: Allows restaurants to list leftover items, set prices, and update 
+  availability.
+- Customer Role: Allows customers to search for food items and reserve items.
+---
 ## 💵 Estimated Cost and Timeline
 
+![budget_with_latest](budget_with_latest.png)
+### 📅 Total Estimated Cost without auth and user engaigment 
+Total Project Budget: $ 600 - $ 1000
 ![Recipe Management and Categorization](project-pugedt-distribution.png)
-### 📅 Total Estimated Cost
+### 📅 Total Estimated Cost with auth and user engaigment
 Total Project Budget: $1,500 - $2,000
+![bugedtwithleftfoodsale](bugedtwithleftfoodsale.png)
+### 📅 Total Estimated Cost with auth and leftover food sales 
+Total Project Budget: $2,500 - $3,000
+
 
 ### Development Timeline
 Approximately 3-6 months, considering design, development, testing, and deployment.
