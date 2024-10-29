@@ -78,24 +78,15 @@ To reduce food waste by providing a platform where restaurants can sell leftover
 
 ## 💵 Estimated Cost and Timeline
 
-### 📅 Total Estimated Cost without auth and user engaigment 
-Total Project Budget: $ 600 - $ 1000
-![budget_with_latest](budget_with_latest_cost.png)
-
-### 📅 Total Estimated Cost with auth and user engaigment
-Total Project Budget: $1,500 - $2,000
-![Recipe Management and Categorization](project-pugedt-distribution.png)
 
 ### 📅 Total Estimated Cost with auth and leftover food sales 
-Total Project Budget: $2,500 - $3,000
+Total Project Budget: $2,500
 ![bugedtwithleftfoodsale](bugedtwithleftfoodsale.png)
 
 
 
-### Development Timeline
-Approximately 3-6 months, considering design, development, testing, and deployment.
 
----
+
 
 
 
